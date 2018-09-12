@@ -1,0 +1,2 @@
+# SciCommMgz
+Science Communication Magazine
