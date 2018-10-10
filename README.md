@@ -18,15 +18,20 @@ The README file will help you to understand more about the SciCommMgz project an
 
 ## What are we doing?
 
-The main pressure that undergrad and graduate students suffer in university is for them to publish papers in high impact magazines.
+Science is everywhere. From your smartphone to the water that you drink. We need to talk about it. 
+
+But you see, scientists are usually under a lot of pressure to publish papers in high impact magazines. Which is not completly wrong, through these papers scientists can communicate the results from their reseaches to the entire community! I mean scientists community.
+
+
 
 ## Who are we?
 
-[Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino] met each other on Twitter. They are both from Brazil but they live far apart from each other - almost a 10 hour drive. But since they met, they have realised that they share a commom passion: Science Communication. Or as people usually say SciComm.
+[Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino] met each other on Twitter. They are both from Brazil but they live far apart from each other - almost a 10 hour drive. But since they met, they have realised that they share a commom passion: Science Communication. Or as people usually say ***SciComm***.
 Now, they are both involved in projects to put SciComm on the map. They want to empower scientists to perform good and interesting SciCom (Want to know more that? See [IGNITE][link_ignite]) and create places, such as this Magazine, where they can share content about SciComm.
 
 ## What do we need?
-Soon.
+
+We need people that con
 
 ## Get involved
 Soon.
