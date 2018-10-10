@@ -4,7 +4,7 @@
 
 ## Welcome
 
-Hi! :wave: Olá! :confetti_ball: ¡Hola! :tada:
+Hi! :wave: :wave: :tada:
 
 It's really nice to have you here! :heart:
 
