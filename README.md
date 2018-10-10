@@ -28,7 +28,7 @@ Science Communication Magazine (Please help us find a cooler to our Mgz [here][l
 
 ## Who are we?
 
-[Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino] met each other on Twitter. They are both from Brazil but they live far apart from each other - almost a 10 hour drive. But since they met, they have realised that they share a commom passion: Science Communication. Or as people usually say ***SciComm***.
+[Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino] met on Twitter. They are both from Brazil but they live far apart from each other - almost a 10 hour drive. But since they met, they have realised that they share a commom passion: Science Communication. Or as people usually say ***SciComm***.
 
 Now, they are both involved in projects to put SciComm on the map. They want to empower scientists to perform good and interesting SciCom (Want to know more that? See [IGNITE][link_ignite]) and create places, such as this Magazine, where they can share content about SciComm.
 
@@ -42,7 +42,7 @@ More information soon.
 Soon.
 
 ## Contact us
-We are here, on Github [@mlbonatelli][link_mlbonatelli] and [@graciellehigino][link_graciellehigino]. You can also find us on Twitter, it's easy, the same @: [@mlbonatelli][link_mlbonatelliT] and [@graciellehigino][link_graciellehiginoT].
+We are here, on Github Maria - [@mlbonatelli][link_mlbonatelli] and Gracielle - [@graciellehigino][link_graciellehigino]. You can also find us on Twitter, it's easy, the same @: [@mlbonatelli][link_mlbonatelliT] and [@graciellehigino][link_graciellehiginoT].
 
 
 [link_mlbonatelli]: https://github.com/mlbonatelli
