@@ -4,9 +4,9 @@
 
 ## Welcome
 
-Hi! :wave: Olá! :handshake: ¡Hola! :smile:
+Hi! :wave: Olá! :confetti_ball: ¡Hola! :tada:
 
-It's really nice to have you here!
+It's really nice to have you here! :heart:
 
 The README file will help you to understand more about the SciCommMgz project and how you can get involved!
 
@@ -19,7 +19,7 @@ The README file will help you to understand more about the SciCommMgz project an
 ## What are we doing?
 
 ## Who are we?
-[Maria][link_Mlbonatelli] and [Gacielle][link_Graciellehigino] 
+[Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino] 
 
 ## What do we need?
 
