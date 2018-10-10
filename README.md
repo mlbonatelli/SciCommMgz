@@ -24,7 +24,7 @@ Scientists are usually under a lot of pressure to publish papers in high impact 
 
 But what if we have a magazine that publishes SciComm papers? That will give the prestige that undergrad and graduate students need for their curriculum and that will have great content about Science that the public can enjoy and understand?
 
-That is our idea. Science Communication Magazine (Please help us find a cooler to our Mgz [here][link_Magazine])
+That is our idea. Science Communication Magazine (Please help us find a cooler to our Mgz [here][link_Magazine]) is a 
 
 ## Who are we?
 
@@ -34,15 +34,18 @@ Now, they are both involved in projects to put SciComm on the map. They want to 
 
 ## What do we need?
 
-We need people that want to know more about science. We need people that know a lot about science. Basically, we need you 
+We need people that want to know more about science. We need people that know a lot about science. Basically, we need you!
+
+More information soon.
 
 ## Get involved
 Soon.
 
 ## Contact us
-Soon.
+We are here, on Github [Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino]! You can also find us on Twitter
 
 
 [link_mlbonatelli]: https://github.com/mlbonatelli
 [link_graciellehigino]: https://github.com/graciellehigino
 [link_ignite]: https://github.com/graciellehigino/IGNITE
+[link_Magazine]: https://github.com/mlbonatelli/SciCommMgz/issues/1
