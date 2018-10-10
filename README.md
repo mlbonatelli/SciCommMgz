@@ -20,11 +20,11 @@ The README file will help you to understand more about the SciCommMgz project an
 
 Science is everywhere. From your smartphone to the water that you drink. We need to talk about it. 
 
-Scientists are usually under a lot of pressure to publish papers in high impact magazines. Which is not completly wrong, through these papers scientists can communicate the results from their reseaches to the entire community! I mean scientific community. Scientists - and by that I mean professors, undergrad and graduate students - usually left SciComm aside.
+Scientists are usually under a lot of pressure to publish papers in high impact magazines. Which is kind of ok, through these papers scientists can communicate the results from their reseaches to the entire community! I mean scientific community. Scientists - and by that I mean professors, undergrad and graduate students - usually don't communicate science to the society.
 
-But what if we have a magazine that publishes SciComm papers? That will give the prestige that undergrad and graduate students need for their curriculum and that will have great content about Science that the public can enjoy and understand?
+But what if we have a magazine that publishes scientific papers with a more comprehensible and interesting content? A magazine that, in one hand, will give the prestige that undergrad and graduate students need for their curriculum and, on the other, will have great content about science that the public can enjoy.
 
-That is our idea. Science Communication Magazine (Please help us find a cooler to our Mgz [here][link_Magazine]) is a 
+Science Communication Magazine (Please help us find a cooler to our Mgz [here][link_Magazine]) is a open peer-review science magazine that will publish interesting news about science.
 
 ## Who are we?
 
@@ -42,10 +42,13 @@ More information soon.
 Soon.
 
 ## Contact us
-We are here, on Github [Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino]! You can also find us on Twitter
+We are here, on Github [@mlbonatelli][link_mlbonatelli] and [@graciellehigino][link_graciellehigino]. You can also find us on Twitter, it's easy, the same @: [@mlbonatelli][link_mlbonatelliT] and [@graciellehigino][link_graciellehiginoT].
 
 
 [link_mlbonatelli]: https://github.com/mlbonatelli
 [link_graciellehigino]: https://github.com/graciellehigino
 [link_ignite]: https://github.com/graciellehigino/IGNITE
 [link_Magazine]: https://github.com/mlbonatelli/SciCommMgz/issues/1
+[link_mlbonatelliT]: https://twitter.com/mlbonatelli
+[link_graciellehiginoT]: https://twitter.com/GracielleHigino
+
