@@ -19,7 +19,7 @@ The README file will help you to understand more about the SciCommMgz project an
 ## What are we doing?
 
 ## Who are we?
-[Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino] 
+[Maria][link_Mlbonatelli] and [Gacielle][link_Graciellehigino] 
 
 ## What do we need?
 
