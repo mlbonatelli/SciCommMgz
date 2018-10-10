@@ -4,7 +4,7 @@
 
 ## Welcome
 
-Hi! Olá! ¡Hola! :ballon:
+Hi! Olá! ¡Hola! :balloon::heart:
 
 It's really nice to have you here!
 
@@ -19,7 +19,7 @@ The README file will help you to understand more about the SciCommMgz project an
 ## What are we doing?
 
 ## Who are we?
-@mlbonatelli and [graciellehigino] 
+[Maria][mlbonatelli] and [Gacielle][graciellehigino] 
 
 ## What do we need?
 
