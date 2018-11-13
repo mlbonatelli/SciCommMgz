@@ -9,7 +9,7 @@ This is the Roadmap of Science Communication Magazine. See our progress and what
 - [ ] Name
 - [ ] Identity
 - [ ] README - **Due to Nov 11**
-- [ ] Code of Conduct - **Due to Nov 11**
+- [X] Code of Conduct - **Due to Nov 11**
 - [ ] Contributing Guidelines - **Due to Nov 11**
 
 ### Website 
