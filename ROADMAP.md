@@ -3,7 +3,7 @@ _**Empowering our community through interesting and quality science communicatio
 
 This is the Roadmap of Science Communication Magazine. See our progress and what we still need to do. And if you want to help? Please, feel free to come on board :ship: :ship:
 
->*Also, don't forget to read our [Code](link_Code) and our [Contributing Guidelines](link_Contributing)* :wink:
+>*Also, don't forget to read our [Code of Conduct](link_Code) and our [Contributing Guidelines](link_Contributing)* :wink:
 
 ### Basics 
 - [ ] Name
@@ -43,5 +43,5 @@ Where are the collaboratos? How to engaged them into collaborating with the Maga
 ### ASM help
 - [ ] Resources from ASM
 
-[link_Code]: https://github.com/mlbonatelli/SciCommMgz/blob/master/CODE_OF_CONDUCT.md
-[link_Contributing]: https://github.com/mlbonatelli/SciCommMgz/blob/master/CONTRIBUTING.md
+[link_Code]: https://github.com/mlbonatelli/SciCommMgz/CODE_OF_CONDUCT.md 
+[link_Contributing]: 
