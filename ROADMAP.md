@@ -43,5 +43,5 @@ Where are the collaboratos? How to engaged them into collaborating with the Maga
 ### ASM help
 - [ ] Resources from ASM
 
-[link_Code]: https://github.com/mlbonatelli/SciCommMgz/CODE_OF_CONDUCT.md 
+[link_Code]: https://github.com/mlbonatelli/SciCommMgz/blob/master/CODE_OF_CONDUCT.md
 [link_Contributing]: 
