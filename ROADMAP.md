@@ -3,7 +3,7 @@ _**Empowering our community through interesting and quality science communicatio
 
 This is the Roadmap of Science Communication Magazine. See our progress and what we still need to do. And if you want to help? Please, feel free to come on board :ship: :ship:
 
->*Also, don't forget to read our [Code of Conduct](link_Code) and our [Contributing Guidelines](link_Contributing)* :wink:
+>*Also, don't forget to read our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contributing Guidelines](link_Contributing)* :wink:
 
 ### Basics 
 - [ ] Name
