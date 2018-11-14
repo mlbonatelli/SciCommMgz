@@ -24,13 +24,13 @@ Scientists are usually under a lot of pressure to publish papers in high impact 
 
 But what if we have a magazine that publishes scientific papers with a more comprehensible and interesting content? A magazine that, in one hand, will give the prestige that undergrad and graduate students need for their curriculum and, on the other, will have great content about science that the public can enjoy.
 
-Science Communication Magazine (Please help us find a cooler to our Mgz [here][link_Magazine]) is a open peer-review science magazine that will publish interesting news about science.
+Science Communication Magazine (Please help us find a cooler name to our Mgz [here][link_Magazine]) is an open peer-reviewed science magazine that will publish interesting news about science.
 
 ## Who are we?
 
-[Maria][link_mlbonatelli] and [Gacielle][link_graciellehigino] met on Twitter. They are both from Brazil but they live far apart from each other - almost a 10 hour drive. But since they met, they have realised that they share a commom passion: Science Communication. Or as people usually say ***SciComm***.
+[Maria][link_mlbonatelli] and [Gracielle][link_graciellehigino] met on Twitter. They are both from Brazil but they live far apart from each other - almost a 10 hour drive. But since they met, they have realised that they share a commom passion: Science Communication. Or, as people usually say, ***SciComm***.
 
-Now, they are both involved in projects to put SciComm on the map. They want to empower scientists to perform good and interesting SciCom (Want to know more that? See [IGNITE][link_ignite]) and create places, such as this Magazine, where they can share content about SciComm.
+Now, they are both involved in projects to put SciComm on the map. They want to empower scientists to perform good and interesting SciComm (want to know more about that? See [IGNITE][link_ignite]) and create places, such as this Magazine, where they can share content about SciComm.
 
 ## What do we need?
 
