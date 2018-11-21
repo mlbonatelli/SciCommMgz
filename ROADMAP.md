@@ -19,7 +19,7 @@ This is the Roadmap of Science Communication Magazine. See our progress and what
 This is the place where both readers and authors will meet.
 - [ ] How to build a webpage on Github? - **Due to Nov 23**
 - [ ] What information does it need?
-- [ ] Information to the readers
+- [ ] Experience of the readers
 - [ ] Information to the authors
 - [ ] Information to the contributors
 
@@ -29,15 +29,14 @@ Examples:
 
 ### Submission process - **Due to Nov 30**
 - [ ] Instructions for authors
-- [ ] Google forms
-- [ ] Copyright transfer?  
-- [ ] User journey (author)
+- [ ] Using Google forms to submission process
+- [ ] Copyright transfer (?)  
+- [ ] Author journey
 
 ### Process of review - **Due to Dec 6**
 The process of review will be open.
 - [ ] Deadline?
 - [ ] Similar to Mozilla: **creating issue**
-- [ ] Other?
 - [ ] Reviewer journey
 
 ### Engaging colaborators 
