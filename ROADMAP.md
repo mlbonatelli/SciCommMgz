@@ -21,8 +21,8 @@ This is the place where both readers and authors will meet.
 - [ ] Information to the contributors
 
 Examples: 
-https://github.com/Zebetus/studyGroup
-https://zebetus.github.io/studyGroup/
+- https://github.com/Zebetus/studyGroup
+- https://gent-esalq.github.io/
 
 ### Submission process - **Due to Nov 30**
 - [ ] Instructions for authors
