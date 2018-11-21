@@ -32,7 +32,7 @@ You can read more on our philosophy and aims in our [README](README.md) file, an
 
 ## How to work on GitHub  
 
->*Using this awesome Github instructions from [IGNITE](https://github.com/graciellehigino/IGNITE) :heart:
+>*Using this awesome Github instructions from [IGNITE](https://github.com/graciellehigino/IGNITE) :heart:*
 
 If you're new to GitHub, take some time to understand how a repository works. Don't worry if you find it difficult, we can always help!  
 GitHub has its own [guides](https://guides.github.com/) which are really useful. Basically, you need to know how to [file an Issue](https://guides.github.com/features/issues/) and how to contribute directly to the core contents of the project by [submitting a pull request](https://guides.github.com/activities/forking/#making-a-pull-request). Please, be as clear as you can in both cases, describing what is the problem/suggestion/solution in details. Also, be sure that your suggestion/problem/solution was not addressed in another Issue before.
