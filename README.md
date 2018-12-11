@@ -36,9 +36,14 @@ Now, they are both involved in projects to put SciComm on the map. They want to 
 
 We need people that want to know more about science. We need people that know a lot about science. Basically, we need you!
 
-More information soon.
+We are building this magazine from scratch, so we need help in several different things. We need to think about the writers and reviewers experience and we need to build a magazine that people really want to read.
+
+If you have any expertise that may help us, or if you have a good idea or suggestion, please let us know! And if you want to get involved, it is easy: just go to [How can you get involved?](#get-involved)! Also, if you want to share some idea directly to us, go to: [Get in touch](#contact-us).
 
 ## Get involved
+
+First of all, thanks for considering getting involved! It means a lot to us!
+
 
 Please, read more about contribution in our [Contribution Guidelines][link_Contribution], our [Code of Conduct][link_Code] and our [Roadmap][link_Roadmap].
 
