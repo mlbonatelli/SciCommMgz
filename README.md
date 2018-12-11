@@ -39,7 +39,8 @@ We need people that want to know more about science. We need people that know a 
 More information soon.
 
 ## Get involved
-Soon.
+
+Please, read more about contribution in our [Contribution Guidelines][link_Contribution], our [Code of Conduct][link_Code] and our [Roadmap][link_Roadmap].
 
 ## Contact us
 We are here, on Github Maria - [@mlbonatelli][link_mlbonatelli] and Gracielle - [@graciellehigino][link_graciellehigino]. You can also find us on Twitter, it's easy, the same @: [@mlbonatelli][link_mlbonatelliT] and [@graciellehigino][link_graciellehiginoT].
@@ -51,4 +52,7 @@ We are here, on Github Maria - [@mlbonatelli][link_mlbonatelli] and Gracielle - 
 [link_Magazine]: https://github.com/mlbonatelli/SciCommMgz/issues/1
 [link_mlbonatelliT]: https://twitter.com/mlbonatelli
 [link_graciellehiginoT]: https://twitter.com/GracielleHigino
+[link_Contribution]: https://github.com/mlbonatelli/SciCommMgz/blob/master/CONTRIBUTING.md
+[link_Code]: https://github.com/mlbonatelli/SciCommMgz/blob/master/CODE_OF_CONDUCT.md
+[link_Roadmap]: https://github.com/mlbonatelli/SciCommMgz/blob/master/ROADMAP.md
 
