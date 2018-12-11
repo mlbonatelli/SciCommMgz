@@ -48,7 +48,7 @@ If you want to understand our project and the steps of its construction, you sho
 
 But if you really wanna know all the details of our project, go to our [Contributing Guidelines][link_Contribution]. There you will be able to find all the juicy information about Science Communication Magazine. 
 
-Please, don't forget to reed our [Code of Conduct][link_Code]!
+Please, don't forget to read our [Code of Conduct][link_Code]!
 
 ## Contact us
 We are here, on Github Maria - [@mlbonatelli][link_mlbonatelli] and Gracielle - [@graciellehigino][link_graciellehigino]. You can also find us on Twitter, it's easy, the same @: [@mlbonatelli][link_mlbonatelliT] and [@graciellehigino][link_graciellehiginoT].
