@@ -6,7 +6,7 @@ This is the Roadmap of Science Communication Magazine. See our progress and what
 >*Also, don't forget to read our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contributing Guidelines](CONTRIBUTING.md)* :wink:
 
 ### Basics 
-- [ ] README 
+- [X] README 
 - [X] Code of Conduct 
 - [ ] Contributing Guidelines 
 
