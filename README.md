@@ -38,7 +38,7 @@ We need people that want to know more about science. We need people that know a 
 
 We are building this magazine from scratch, so we need help in several different things. We need to think about the writers and reviewers experience and we need to build a magazine that people really want to read.
 
-If you have any expertise that may help us, or if you have a good idea or suggestion, please let us know! And if you want to get involved, it is easy: just go to [Get involved?](#get-involved)! Also, if you want to share some idea directly to us, go to: [Contact us](#contact-us).
+If you have any expertise that may help us, or if you have a good idea or suggestion, please let us know! And if you want to get involved, it is easy: just go to [Get involved](#get-involved)! Also, if you want to share some idea directly to us, go to: [Contact us](#contact-us).
 
 ## Get involved
 
