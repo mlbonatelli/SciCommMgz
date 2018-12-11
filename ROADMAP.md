@@ -6,9 +6,9 @@ This is the Roadmap of Science Communication Magazine. See our progress and what
 >*Also, don't forget to read our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contributing Guidelines](CONTRIBUTING.md)* :wink:
 
 ### Basics 
-- [ ] README - **Due to Nov 11**
-- [X] Code of Conduct - **Due to Nov 11**
-- [ ] Contributing Guidelines - **Due to Nov 11**
+- [ ] README 
+- [X] Code of Conduct 
+- [ ] Contributing Guidelines 
 
 ### Visual Identity
 - [ ] Name
@@ -17,26 +17,25 @@ This is the Roadmap of Science Communication Magazine. See our progress and what
 
 ### Website 
 This is the place where both readers and authors will meet.
-- [ ] How to build a webpage on Github? - **Due to Nov 23**
+- [ ] https://www.authorea.com
 - [ ] What information does it need?
 - [ ] Experience of the readers
 - [ ] Information to the authors
 - [ ] Information to the contributors
 
 Examples: 
-- https://github.com/Zebetus/studyGroup
-- https://gent-esalq.github.io/
+- https://www.authorea.com/inst/14979-journal-of-sketching-science
+- https://www.authorea.com/inst/14743-prereview
 
-### Submission process - **Due to Nov 30**
+### Submission process 
 - [ ] Instructions for authors
 - [ ] Using Google forms to submission process
 - [ ] Copyright transfer (?)  
 - [ ] Author journey
 
-### Process of review - **Due to Dec 6**
+### Process of review 
 The process of review will be open.
 - [ ] Deadline?
-- [ ] Similar to Mozilla: **creating issue**
 - [ ] Reviewer journey
 
 ### Engaging colaborators 
