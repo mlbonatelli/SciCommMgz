@@ -29,7 +29,6 @@ Examples:
 
 ### Submission process 
 - [ ] Instructions for authors
-- [ ] Using Google forms to submission process
 - [ ] Copyright transfer (?)  
 - [ ] Author journey
 
